@@ -1,4 +1,4 @@
-![alt text](https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/Resources/unicourse.jpg)
+![alt text](https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/profile/Resources/unicourse.jpg)
 
 Unicourse is an online learning platform designed to connect learners and instructors by offering a wide variety of educational courses. The platform's primary focus is on helping university students in Vietnam, particularly those at FPT University, improve their academic performance, time management, and study strategies. Unicourse provides specialized packages for fast exam preparation and includes features such as AI-enhanced personalization, gamification, and mobile-friendly integration to enhance student engagement and accessibility.
 
@@ -26,20 +26,20 @@ Unicourse is an online learning platform designed to connect learners and instru
 
 ## Figma Unicourse Application
 
-[![Figma Whale Home Application](https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/Resources/figma-unicourse.jpg)](https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/Resources/figma-unicourse.jpg)
+[![Figma Whale Home Application](https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/profile/Resources/figma-unicourse.jpg)](https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/Resources/figma-unicourse.jpg)
 
 
 
 
 # Website Screens
 <div style="width: 100%; height: 300;">
-  <img src="https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/Resources/unicourse-website.jpg" alt="Mobile Screen" style="width: 100%; height: 100%;border: 10px solid white; border-radius: 10px">
+  <img src="https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/profile/Resources/unicourse-website.jpg" alt="Mobile Screen" style="width: 100%; height: 100%;border: 10px solid white; border-radius: 10px">
     Watch the demo video here: [YouTube Demo](https://youtu.be/K11jnZ5DlAc?si=IvWNnMJq2yc6vKR7)
 </div>
 
 # Mobile Screens
 <div style="width: 100%; height: 300;">
-  <img src="https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/Resources/unicourse-mobile.jpg" alt="Mobile Screen" style="width: 100%; height: 100%;border: 10px solid white; border-radius: 10px">
+  <img src="https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/profile/Resources/unicourse-mobile.jpg" alt="Mobile Screen" style="width: 100%; height: 100%;border: 10px solid white; border-radius: 10px">
   Watch the demo video here: [YouTube Demo](https://youtu.be/0q7GLd4dP1E?si=fgJqPMRYyLNJyn8K)
 </div>
 
