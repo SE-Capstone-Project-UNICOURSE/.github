@@ -13,7 +13,7 @@ Unicourse is an online learning platform designed to connect learners and instru
 
 
 
-##### Technologies We use
+## Technologies We use
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
@@ -34,13 +34,17 @@ Unicourse is an online learning platform designed to connect learners and instru
 # Website Screens
 <div style="width: 100%; height: 300;">
   <img src="https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/Resources/unicourse-website.jpg" alt="Mobile Screen" style="width: 100%; height: 100%;border: 10px solid white; border-radius: 10px">
+    Watch the demo video here: [YouTube Demo](https://youtu.be/K11jnZ5DlAc?si=IvWNnMJq2yc6vKR7)
 </div>
 
 # Mobile Screens
 <div style="width: 100%; height: 300;">
   <img src="https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/Resources/unicourse-mobile.jpg" alt="Mobile Screen" style="width: 100%; height: 100%;border: 10px solid white; border-radius: 10px">
+  Watch the demo video here: [YouTube Demo](https://youtu.be/0q7GLd4dP1E?si=fgJqPMRYyLNJyn8K)
 </div>
 
+
+# 
 
 # Visit Us
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px; margin-bottom: 30px">
