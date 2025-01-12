@@ -31,22 +31,19 @@ Unicourse is an online learning platform designed to connect learners and instru
 
 
 
-# Website Screens
+## Website Screens
 <div style="width: 100%; height: 300;">
   <img src="https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/profile/Resources/unicourse-website.jpg" alt="Mobile Screen" style="width: 100%; height: 100%;border: 10px solid white; border-radius: 10px">
     Watch the demo video here: [YouTube Demo](https://youtu.be/K11jnZ5DlAc?si=IvWNnMJq2yc6vKR7)
 </div>
 
-# Mobile Screens
+## Mobile Screens
 <div style="width: 100%; height: 300;">
   <img src="https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/profile/Resources/unicourse-mobile.jpg" alt="Mobile Screen" style="width: 100%; height: 100%;border: 10px solid white; border-radius: 10px">
   Watch the demo video here: [YouTube Demo](https://youtu.be/0q7GLd4dP1E?si=fgJqPMRYyLNJyn8K)
 </div>
 
-
-# 
-
-# Visit Us
+## Visit Us
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px; margin-bottom: 30px">
   <!-- View on Website -->
   <div style="text-align: center; width: '30%' ">
@@ -75,5 +72,8 @@ Unicourse is an online learning platform designed to connect learners and instru
 </div>
 
 **Hopefully useful, for everything.** :smile: :punch:
-
 Developed By Unicourse Team
+<div style="width: 100%; height: 300;">
+  <img src="https://github.com/SE-Capstone-Project-UNICOURSE/.github/blob/main/profile/Resources/z6149051905768_3b6b61b035deefbc3a896de1c7f8a24a.jpg" alt="Mobile Screen" style="width: 100%; height: 100%;border: 10px solid white; border-radius: 10px">
+</div>
+
